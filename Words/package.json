@@ -1,0 +1,22 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "words function",
+  "main": "./src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha ./tests/testwords.js"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "mmaureen",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
